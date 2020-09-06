@@ -7,15 +7,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>中文测试</title>
-    <url>/2020/09/06/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p><a href="http://www.baidu.com/">www.baidu.com</a><br><a href="http://www.bladeblog.cn/">www.bladeblog.cn</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>my first article</title>
     <url>/2020/09/04/my-first-article/</url>
-    <content><![CDATA[<p><img src="/2020/09/04/my-first-article/Mr.%E8%B0%A2.png" alt="1111"><br><img src="/2020/09/04/my-first-article/sap.png" alt="2222"><br><a href="http://www.baidu.com/">www.baidu.com</a><br><a href="http://www.bladeblog.cn/">www.bladeblog.cn</a></p>
+    <content><![CDATA[<p><img src="/2020/09/04/my-first-article/Mr.%E8%B0%A2.png" alt="1111"><br><img src="/2020/09/04/my-first-article/sap.png" alt="2222"><br><a href="http://www.baidu.com/">www.baidu.com</a><br><a href="http://www.bladeblog.cn/">www.bladeblog.cn</a><br>askaksjksadj</p>
 ]]></content>
       <categories>
         <category>主页测试</category>
@@ -41,7 +35,13 @@
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a><br>阿宽宏大量海龙大厦卡哈迪斯框架和暗蚀多看哈多斯拉克还打算</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>中文测试</title>
+    <url>/2020/09/06/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p><a href="http://www.baidu.com/">www.baidu.com</a><br><a href="http://www.bladeblog.cn/">www.bladeblog.cn</a></p>
 ]]></content>
   </entry>
 </search>
